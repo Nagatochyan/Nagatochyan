@@ -4,3 +4,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagatochyan&layout=compact&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
 ### Mostly editing python files(sometime java)
+![2048px-Python-logo-notext svg](https://user-images.githubusercontent.com/94958239/164648695-1ad55ed6-a89c-4e38-bb2c-50ea1ee2ceda.png)
