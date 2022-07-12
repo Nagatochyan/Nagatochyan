@@ -6,3 +6,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Nagatochyan
 
 ### Mostly editing python files(sometime java)
 ![2048px-Python-logo-notext svg](https://user-images.githubusercontent.com/94958239/164648695-1ad55ed6-a89c-4e38-bb2c-50ea1ee2ceda.png)
+
+### Other (links)
+Link tree:<br>
+https://linktr.ee/nagatochan<br>
+Neurope(discord):<br>
+https://discord.gg/jnUUyS6CSN<br>
