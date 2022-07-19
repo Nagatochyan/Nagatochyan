@@ -5,7 +5,7 @@
 
 
 ### Mostly editing python files(sometime java)
-![1012px-Python-logo-notext svg](https://user-images.githubusercontent.com/94958239/164648695-1ad55ed6-a89c-4e38-bb2c-50ea1ee2ceda.png)
+![100px-Python-logo-notext svg](https://user-images.githubusercontent.com/94958239/164648695-1ad55ed6-a89c-4e38-bb2c-50ea1ee2ceda.png)
 ### 3DS
 I usually edit cia files(3ds game file) and customize texture and so on... 
 
