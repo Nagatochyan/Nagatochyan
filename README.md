@@ -6,8 +6,9 @@
 
 ### Mostly editing python files(sometime java)
 ![2048px-Python-logo-notext svg](https://user-images.githubusercontent.com/94958239/164648695-1ad55ed6-a89c-4e38-bb2c-50ea1ee2ceda.png)
-### Like to rearrange game
+### 3DS
 I usually edit cia files(3ds game file) and customize texture and so on... 
+
 ### Other (links)
 Link tree:<br>
 https://linktr.ee/nagatochan<br>
