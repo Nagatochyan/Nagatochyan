@@ -1,5 +1,5 @@
 ### Hi I'm Nagato
-<img src="https://user-images.githubusercontent.com/94958239/164647576-b8b61ae7-7dfc-46fe-a0b6-6cf5011932ce.jpg" width="320px">
+<img src="https://user-images.githubusercontent.com/94958239/164647576-b8b61ae7-7dfc-46fe-a0b6-6cf5011932ce.jpg" width="500px">
 
 [![Nagato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagatochyan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagatochyan)](https://github.com/anuraghazra/github-readme-stats)
