@@ -13,6 +13,5 @@ I usually edit cia files(3ds game file) and customize texture and so on...
 ### Other (links)
 Link tree:<br>
 https://linktr.ee/nagatochan<br>
-Neurope(discord):<br>
-https://discord.gg/jnUUyS6CSN<br>
+
 
