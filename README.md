@@ -10,8 +10,6 @@
 I usually edit cia files(3ds game file) and customize texture and so on... 
 ![65641625-8CDE-4E4E-B853-91AB1F480F27](https://user-images.githubusercontent.com/94958239/179823994-7455473d-fb3c-4732-b45e-185e52dc7958.jpeg)
 
-### Other (links)
-Link tree:<br>
-https://linktr.ee/nagatochan<br>
+
 
 
