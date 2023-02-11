@@ -4,7 +4,7 @@
 ### About me
 Haruhi fanboy.(Like Nagato Yuki the best.)<br>
 From Japan.<br>
-<a href="https://osu.ppy.sh/users/29720905"><img src="https://user-images.githubusercontent.com/94958239/218266765-5ed224c8-55d0-409b-a065-642151a86dbd.png" width="100px"></a>
+<a href="https://osu.ppy.sh/users/29720905"><img src="https://user-images.githubusercontent.com/94958239/218266765-5ed224c8-55d0-409b-a065-642151a86dbd.png" width="300px"></a>
 
 
 
