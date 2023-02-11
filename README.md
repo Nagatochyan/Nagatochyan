@@ -16,7 +16,7 @@ From Japan.
 I play Osu!,Valorant,Ow2,Shatterline,deltarune, and COD.<br>
 ### Osu!
 I'm not good at it but, I can play the best of all the games I have played.<br>↓My osu! page
-![画像_2023-02-11_220000174](https://user-images.githubusercontent.com/94958239/218259327-073488d7-da57-4dbe-8266-096166d478da.png)
+![画像_2023-02-11_220000174](https://user-images.githubusercontent.com/94958239/218259327-073488d7-da57-4dbe-8266-096166d478da.png)(https://osu.ppy.sh/users/29720905)
 # Access Counter
 ![Counter](https://profile-counter.glitch.me/Neos21/count.svg)
 
