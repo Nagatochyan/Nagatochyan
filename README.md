@@ -4,7 +4,7 @@
 ### About me
 Haruhi fanboy.(Like Nagato Yuki the best.)<br>
 From Japan.<br>
-Further information↓(click)
+Further information↓(click)<br>
 <a href="https://lit.link/Nagato"><img src="https://user-images.githubusercontent.com/94958239/218266765-5ed224c8-55d0-409b-a065-642151a86dbd.png" width="300px"></a>
 
 
