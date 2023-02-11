@@ -8,7 +8,7 @@ Further information↓(click)<br>
 <a href="https://lit.link/Nagato"><img src="https://user-images.githubusercontent.com/94958239/218266765-5ed224c8-55d0-409b-a065-642151a86dbd.png" width="300px"></a>
 
 
-#### Coading
+### Coading
 ## skill
 # ・python<br>・Go<br>・html<br>・css<br>
 [![Nagato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagatochyan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
