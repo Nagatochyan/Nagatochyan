@@ -13,7 +13,8 @@ From Japan.
 <img src="https://user-images.githubusercontent.com/94958239/164648695-1ad55ed6-a89c-4e38-bb2c-50ea1ee2ceda.png" width="320px">
 
 ### Games
-I play Osu!,Valorant,Ow2,Shatterline,deltarune, and COD.
+I play Osu!,Valorant,Ow2,Shatterline,deltarune, and COD.<br>
+![画像_2023-02-11_220000174](https://user-images.githubusercontent.com/94958239/218259327-073488d7-da57-4dbe-8266-096166d478da.png)
 # Access Counter
 ![Counter](https://profile-counter.glitch.me/Neos21/count.svg)
 
