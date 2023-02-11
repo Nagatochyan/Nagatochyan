@@ -3,7 +3,9 @@
 
 ### About me
 Haruhi fanboy.(Like Nagato Yuki the best.)<br>
-From Japan.
+From Japan.<br>
+<a href="https://osu.ppy.sh/users/29720905"><img src="https://user-images.githubusercontent.com/94958239/218266765-5ed224c8-55d0-409b-a065-642151a86dbd.png" width="100px"></a>
+
 
 
 [![Nagato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagatochyan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
