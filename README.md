@@ -19,7 +19,8 @@ Further information↓(click)<br>
 I play Osu!,Valorant,Ow2,Shatterline,deltarune, and COD.<br>
 ### Osu!
 I'm not good at it but, I can play the best of all the games I have played.<br>↓My osu! page(Tap the image to go to my page!)<br>
-<a href="https://osu.ppy.sh/users/29720905"><img src="https://user-images.githubusercontent.com/94958239/218749265-0b8d7c31-c245-4554-adc1-7853ec3c9a73.png" width="700px"></a>
+<a href="https://osu.ppy.sh/users/29720905"><img src="https://user-images.githubusercontent.com/94958239/223903407-fb653bd3-c3a4-4028-abc3-eaf709bfc682.png" width="700px"></a>
+
 
 # Access Counter
 ![Counter](https://profile-counter.glitch.me/Neos21/count.svg)
