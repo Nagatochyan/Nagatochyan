@@ -14,8 +14,8 @@ Further information↓(click)<br>
 [![Nagato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagatochyan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagatochyan&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
 ## Works
-<a href= "https://nagatochyan.github.io/broswer-todo-list/" target="_blank" >簡単に使えて便利なTODOリスト</a><br>
-<a href= "https://nagatochyan.github.io/browser-memo/" target="_blank" >シンプルで便利なブラウザメモ帳</a>
+<a href= "https://nagatochyan.github.io/broswer-todo-list/" target="_blank" >・簡単に使えて便利なTODOリスト</a><br>
+<a href= "https://nagatochyan.github.io/browser-memo/" target="_blank" >・シンプルで便利なブラウザメモ帳</a>
 
 
 # Games
