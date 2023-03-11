@@ -13,10 +13,14 @@ Further information↓(click)<br>
 # ・python<br>・Go<br>・html<br>・css<br>
 [![Nagato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagatochyan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagatochyan&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
+## Works
+<a href= "https://nagatochyan.github.io/broswer-todo-list/" target="_blank" >簡単に使えて便利なTODOリスト</a><br>
+<a href= "https://nagatochyan.github.io/browser-memo/" target="_blank" >シンプルで便利なブラウザメモ帳</a>
 
 
 # Games
 I play Osu!,Valorant,Ow2,Shatterline,deltarune, and COD.<br>
+
 ### Osu!
 I'm not good at it but, I can play the best of all the games I have played.<br>↓My osu! page(Tap the image to go to my page!)<br>
 <a href="https://osu.ppy.sh/users/29720905"><img src="https://user-images.githubusercontent.com/94958239/224239067-cc25fe7d-52c7-4cd8-b8a3-ccd740efa137.png" width="700px"></a>
