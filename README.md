@@ -16,8 +16,7 @@ Further information↓(click)<br>
 ## Works
 <a href= "https://nagatochyan.github.io/broswer-todo-list/" target="_blank" >・簡単に使えて便利なTODOリスト</a><br>
 <a href= "https://nagatochyan.github.io/browser-memo/" target="_blank" >・シンプルで便利なブラウザメモ帳</a>
-
-
+These are just a few of my works. If you want to see all, just visit here→（https://nagatochyan.github.io/Nagato-works-list/)
 # Games
 I play Osu!,Valorant,Ow2,Shatterline,deltarune, and COD.<br>
 
