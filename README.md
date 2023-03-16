@@ -19,7 +19,7 @@ Further information↓(click)<br>
 These are just a few of my works.
 If you want to see all, just visit here↓<br>https://nagatochyan.github.io/Nagato-works-list/
 # Games
-I play Osu!,Valorant,Ow2,Shatterline,deltarune, and COD.<br>
+I play Osu!,Valorant,Ow2,Shatterline,deltarune,cod,and genshin impact<br>
 
 ### Osu!
 I'm not good at it but, I can play the best of all the games I have played.<br>↓My osu! page(Tap the image to go to my page!)<br>
