@@ -23,12 +23,11 @@ I play Osu!,Valorant,Ow2,Shatterline,deltarune,cod,and genshin impact<br>
 
 ### Osu!
 I'm not good at it but, I can play the best of all the games I have played.<br>↓My osu! page(Tap the image to go to my page!)<br>
-<a href="https://osu.ppy.sh/users/29720905"><img src="https://user-images.githubusercontent.com/94958239/225069306-8f82ad72-d7d4-4039-a026-dd8d9a6d40cf.png" width="700px"></a>
+<a href="https://osu.ppy.sh/users/29720905"><img src="https://user-images.githubusercontent.com/94958239/226152423-0f65b8e2-2276-46d8-bd69-cda5fdddc122.png" width="700px"></a>
 
 
 
 # Access Counter
 ![Counter](https://profile-counter.glitch.me/Neos21/count.svg)
-
 
 
