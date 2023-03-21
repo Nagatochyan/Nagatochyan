@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/94958239/226537169-3017b1ca-54ae-4ac4-aef5-290e893a9b1a.jpg" width="700px"　height＝"100px">
+<img src="https://user-images.githubusercontent.com/94958239/226537169-3017b1ca-54ae-4ac4-aef5-290e893a9b1a.jpg" width="700px">
 
 # Hi I'm Nagato
 <img src="https://user-images.githubusercontent.com/94958239/164647576-b8b61ae7-7dfc-46fe-a0b6-6cf5011932ce.jpg" width="500px">
