@@ -24,7 +24,7 @@ I play Osu!,Valorant,Ow2,Shatterline,deltarune,cod,and genshin impact<br>
 
 ### Osu!
 I'm not good at it but, I can play the best of all the games I have played.<br>↓My osu! page(Tap the image to go to my page!)<br>
-<a href="https://osu.ppy.sh/users/29720905"><img src="https://user-images.githubusercontent.com/94958239/228135250-d7799f3f-6414-4e78-9e71-27df9e29a2ba.png" width="700px"></a>
+<a href="https://osu.ppy.sh/users/29720905"><img src="https://user-images.githubusercontent.com/94958239/228493057-92c6812a-d61c-41ef-8adc-ae1f80018c67.png" width="700px"></a>
 
 
 
