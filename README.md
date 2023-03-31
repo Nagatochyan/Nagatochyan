@@ -15,10 +15,7 @@ Further information↓(click)<br>
 [![Nagato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagatochyan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagatochyan&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
 ## Works
-<a href= "https://nagatochyan.github.io/broswer-todo-list/" target="_blank" >・簡単に使えて便利なTODOリスト</a><br>
-<a href= "https://nagatochyan.github.io/browser-memo/index.html?version=7eb7a1d" target="_blank" >・シンプルで便利なブラウザメモ帳</a><br>
-These are just a few of my works.
-If you want to see all, just visit here↓<br>https://nagatochyan.github.io/Nagato-works-list/
+Visit my WEBSITE! →**https://nagatochyan.github.io/My-first-html/**
 # Games
 I play Osu!,Valorant,Ow2,Shatterline,deltarune,cod,and genshin impact<br>
 
