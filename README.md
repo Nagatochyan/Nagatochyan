@@ -15,7 +15,7 @@ Further information↓(click)<br>
 [![Nagato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagatochyan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagatochyan&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
 ## Works
-Visit my WEBSITE! →**https://nagatochyan.github.io/My-first-html/**
+Visit my WEBSITE! →**https://nagatochyan.github.io/MaxaM-Site/**
 # Games
 I play Osu!,Valorant,Ow2,Shatterline,deltarune,cod,and genshin impact<br>
 
